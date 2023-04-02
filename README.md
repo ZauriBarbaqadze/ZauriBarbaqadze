@@ -1,6 +1,6 @@
 # 💫 About Me:
 🌱 I'm Currently Learning : Angular And TypeScript<br>💬 Ask Me About : React or React Native<br>⚡ Fun fact : I think I'm funny
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207..."/>
+<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 
 ## 🌐 Socials:
